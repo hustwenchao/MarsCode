@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c68624d-6293-4cce-803c-67fecd5feafe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/003_TimeOfVirusInfection/problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003_TimeOfVirusInfection/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_DNASequenceRecovery/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_DNASequenceRecovery/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005_ByteDanceTree/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006_Base32/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006_Base32/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +43,20 @@
   "keyToString": {
     "Python.solution (1).executor": "Debug",
     "Python.solution (2).executor": "Run",
+    "Python.solution (3).executor": "Run",
+    "Python.solution (4).executor": "Run",
     "Python.solution.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.solution (2)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\MarsCode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.solution (4)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MarsCode" />
       <option name="ENV_FILES" value="" />
@@ -91,6 +101,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MarsCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/004_DNASequenceRecovery" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/004_DNASequenceRecovery/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MarsCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/006_Base32" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/006_Base32/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MarsCode" />
       <option name="ENV_FILES" value="" />
@@ -115,6 +169,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (4)" />
+        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
